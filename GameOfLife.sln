@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLifeTest", "GameOfLife\GameOfLifeTest.csproj", "{E7815785-A72C-4764-BBA5-DD3FDB464D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOLconsole", "GOLconsole\GOLconsole.csproj", "{8C5A984F-2663-4629-AFDB-EED1D0A00609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOLForm", "GOLForm\GOLForm.csproj", "{2F5514A0-860B-41D9-9577-85242D6F446B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7815785-A72C-4764-BBA5-DD3FDB464D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7815785-A72C-4764-BBA5-DD3FDB464D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7815785-A72C-4764-BBA5-DD3FDB464D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7815785-A72C-4764-BBA5-DD3FDB464D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5A984F-2663-4629-AFDB-EED1D0A00609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5A984F-2663-4629-AFDB-EED1D0A00609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5A984F-2663-4629-AFDB-EED1D0A00609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5A984F-2663-4629-AFDB-EED1D0A00609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5514A0-860B-41D9-9577-85242D6F446B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5514A0-860B-41D9-9577-85242D6F446B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5514A0-860B-41D9-9577-85242D6F446B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5514A0-860B-41D9-9577-85242D6F446B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D11973D-7E68-4D1C-B2B8-2223A314038A}
+	EndGlobalSection
+EndGlobal
